@@ -1,5 +1,10 @@
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Alina%20Skultecka&section=header"/>
+</p>
+
 ## Hi there 👋
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

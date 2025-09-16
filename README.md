@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="left">👋 Hi, I'm Alina</h3>
-<h4 align="left">A .NET cloud development student with a background in the medical field</h4>
+<h3 align="left">A .NET cloud development student with a background in the medical field</h3>
 
 <br/>
 

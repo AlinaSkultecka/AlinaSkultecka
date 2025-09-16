@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="left">👋 Hi, I'm Alina</h3>
-<h3 align="left">A .NET cloud development student with some background in medical field</h3>
+<h4 align="left">A .NET cloud development student with a background in medical field</h4>
 
 
 - 🌱 I’m currently learning **C# and Python**
@@ -11,8 +11,6 @@
 - 👯 I’m looking to collaborate on **epidemiological or medical research**
 
 - 📫 How to reach me **alina.skultecka@gmail.com**
-
-- ⚡ Fun fact **I am into figure skating**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

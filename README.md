@@ -8,7 +8,7 @@
 <br/>
 
 - 🌱 I’m currently learning **C# and Python**  
-- 👯 I’m looking to collaborate on **epidemiological or medical research**  
+- 👯 I’m looking to collaborate on **epidemiological or medical research** where programming skills are needed  
 - 📫 How to reach me **alina.skultecka@gmail.com**
 
 <br/>

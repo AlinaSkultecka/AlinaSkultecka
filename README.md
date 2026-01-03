@@ -7,7 +7,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning **C# and Python**  
+- 🌱 I’m currently learning **JavaScript, HTML, CSS and React**  
 - 👯 I’m looking to collaborate on **epidemiological or medical research** where programming skills are needed  
 - 📫 How to reach me **alina.skultecka@gmail.com**
 

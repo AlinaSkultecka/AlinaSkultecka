@@ -81,11 +81,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swagger/swagger-original.svg" alt="swagger" width="40" height="40"/>
 
 </p>
-
-<br/>
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alinaskultecka&layout=compact&theme=radical&count_private=true&cache_seconds=1800" alt="Top Languages" />
-</p>
-

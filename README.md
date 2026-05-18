@@ -3,27 +3,23 @@
 </p>
 
 <h3 align="left">👋 Hi, I'm Alina</h3>
-<h3 align="left">A .NET cloud development student with a background in healthcare</h3>
 
-<br/>
+<h4 align="left">
+  A .NET Cloud Development student with a background in healthcare and research
+</h4>
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, React & TypeScript**  
-- 👯 I’m looking to collaborate on **epidemiological or medical research** where programming skills are needed  
-- 📫 How to reach me: **alina.skultecka@gmail.com**
-
-<br/>
-
-<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/alina-skultecka/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/sh.alinchik" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
+  I am currently studying .NET Cloud Development and building my skills in
+  C#, ASP.NET Core, Azure, Python, databases, and CI/CD.
+  My background in healthcare and data-driven research helps me think analytically
+  and solve problems in a structured way.
 </p>
 
-<br/>
+<p align="left">
+  I enjoy learning how to build cloud-based applications, work with APIs,
+  connect applications to databases, and deploy solutions using Azure services.
+</p>
+
 
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left" style="line-height: 3;">
